@@ -19,6 +19,11 @@
   },
   "homepage": "https://www.elpasocoffeebox.com/",
   "dependencies": {
-    "nodemon": "^2.0.22"
+    "bcrypt": "^5.1.0",
+    "express": "^4.18.2",
+    "joi": "^17.9.2",
+    "mongoose": "^7.1.1",
+    "nodemon": "^2.0.22",
+    "uuid": "^9.0.0"
   }
 }
