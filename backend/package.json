@@ -1,0 +1,24 @@
+{
+  "name": "coffeeboxbackend",
+  "version": "1.0.0",
+  "description": "Coffee box backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryanramos/coffeebox.git"
+  },
+  "author": "Bryan Ramos",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/bryanramos/coffeebox/issues"
+  },
+  "homepage": "https://www.elpasocoffeebox.com/",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
